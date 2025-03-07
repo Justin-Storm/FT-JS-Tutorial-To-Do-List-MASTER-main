@@ -26,3 +26,4 @@ function addToDo(toDo) {
 }
 
 addToDo("drink coffee");
+addToDo("drink coffee");
