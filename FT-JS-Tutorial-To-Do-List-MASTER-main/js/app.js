@@ -25,4 +25,4 @@ function addToDo(toDo) {
     list.insertAdjacentHTML(position, item)
 }
 
-addToDo("drink coffee")
+addToDo("drink coffee");
